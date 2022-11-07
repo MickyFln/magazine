@@ -1,0 +1,530 @@
+DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>DEBUG: path not defined\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>array</b> <i>(size=0)</i>
+  <i><font color='#888a85'>empty</font></i>
+</pre>ERROR: Critical Error\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>object</b>(<i>Twig\Error\LoaderError</i>)[<i>16</i>]
+  <i>protected</i> 'message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'The &quot;../templates/src&quot; directory does not exist (&quot;C:\Development\kai\../templates/src&quot;).'</font> <i>(length=88)</i>
+  <i>private</i> <i>string</i> 'string' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+  <i>protected</i> 'code' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>0</font>
+  <i>protected</i> <i>string</i> 'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+  <i>protected</i> <i>int</i> 'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>92</font>
+  <i>private</i> <i>array</i> 'trace' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=9)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>78</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'addPath'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      1 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>45</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'setPaths'</font> <i>(length=8)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      2 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\utilities\DefaultsProvider.php'</font> <i>(length=53)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>59</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'__construct'</font> <i>(length=11)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      3 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\app\MagazineController.php'</font> <i>(length=49)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>28</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'getTwig'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'utilities\DefaultsProvider'</font> <i>(length=26)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      4 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>31</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'showInputForm'</font> <i>(length=13)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'app\MagazineController'</font> <i>(length=22)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      5 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\{closure}'</font> <i>(length=16)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      6 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\steampixel\simple-php-router\src\Steampixel\Route.php'</font> <i>(length=79)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>103</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'call_user_func_array'</font> <i>(length=20)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      7 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>51</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'run'</font> <i>(length=3)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Steampixel\Route'</font> <i>(length=16)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'::'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      8 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\index.php'</font> <i>(length=28)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>22</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'initRoutes'</font> <i>(length=10)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+  <i>private</i> <i>?Throwable</i> 'previous' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'lineno' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>-1</font>
+  <i>private</i> 'name' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'rawMessage' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'The &quot;../templates/src&quot; directory does not exist (&quot;C:\Development\kai\../templates/src&quot;).'</font> <i>(length=88)</i>
+  <i>private</i> 'sourcePath' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'sourceCode' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'xdebug_message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#f57900&#39; colspan=&quot;5&quot;&gt;&lt;span style=&#39;background-color: #cc0000; color: #fce94f; font-size: x-large;&#39;&gt;( ! )&lt;/span&gt; Twig\Error\LoaderError: The &quot;../templates/src&quot; directory does not exist (&quot;C:\Development\kai\../templates/src&quot;). in C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php on line &lt;i&gt;92&lt;/i&gt;&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#e9b96e&#39; colspan=&#39;5&#39;&gt;Call Stack&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;center&#39; bgcolor=&#39;#eeeeec&#39;&gt;#&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Time&lt;'...</font> <i>(length=4966)</i>
+</pre>ERROR: Critical Error\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>object</b>(<i>Twig\Error\LoaderError</i>)[<i>16</i>]
+  <i>protected</i> 'message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'The &quot;/src/templates/src&quot; directory does not exist (&quot;/src/templates/src&quot;).'</font> <i>(length=73)</i>
+  <i>private</i> <i>string</i> 'string' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+  <i>protected</i> 'code' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>0</font>
+  <i>protected</i> <i>string</i> 'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+  <i>protected</i> <i>int</i> 'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>92</font>
+  <i>private</i> <i>array</i> 'trace' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=9)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>78</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'addPath'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      1 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>45</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'setPaths'</font> <i>(length=8)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      2 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\utilities\DefaultsProvider.php'</font> <i>(length=53)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>59</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'__construct'</font> <i>(length=11)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      3 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\app\MagazineController.php'</font> <i>(length=49)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>28</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'getTwig'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'utilities\DefaultsProvider'</font> <i>(length=26)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      4 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>31</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'showInputForm'</font> <i>(length=13)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'app\MagazineController'</font> <i>(length=22)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      5 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\{closure}'</font> <i>(length=16)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      6 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\steampixel\simple-php-router\src\Steampixel\Route.php'</font> <i>(length=79)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>103</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'call_user_func_array'</font> <i>(length=20)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      7 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>51</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'run'</font> <i>(length=3)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Steampixel\Route'</font> <i>(length=16)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'::'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      8 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\index.php'</font> <i>(length=28)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>22</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'initRoutes'</font> <i>(length=10)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+  <i>private</i> <i>?Throwable</i> 'previous' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'lineno' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>-1</font>
+  <i>private</i> 'name' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'rawMessage' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'The &quot;/src/templates/src&quot; directory does not exist (&quot;/src/templates/src&quot;).'</font> <i>(length=73)</i>
+  <i>private</i> 'sourcePath' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'sourceCode' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'xdebug_message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#f57900&#39; colspan=&quot;5&quot;&gt;&lt;span style=&#39;background-color: #cc0000; color: #fce94f; font-size: x-large;&#39;&gt;( ! )&lt;/span&gt; Twig\Error\LoaderError: The &quot;/src/templates/src&quot; directory does not exist (&quot;/src/templates/src&quot;). in C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php on line &lt;i&gt;92&lt;/i&gt;&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#e9b96e&#39; colspan=&#39;5&#39;&gt;Call Stack&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;center&#39; bgcolor=&#39;#eeeeec&#39;&gt;#&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Time&lt;/th&gt;&lt;th align=&#39;'...</font> <i>(length=4957)</i>
+</pre>ERROR: Critical Error\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>object</b>(<i>Twig\Error\LoaderError</i>)[<i>16</i>]
+  <i>protected</i> 'message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'The &quot;../templates/src&quot; directory does not exist (&quot;C:\Development\kai\../templates/src&quot;).'</font> <i>(length=88)</i>
+  <i>private</i> <i>string</i> 'string' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+  <i>protected</i> 'code' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>0</font>
+  <i>protected</i> <i>string</i> 'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+  <i>protected</i> <i>int</i> 'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>92</font>
+  <i>private</i> <i>array</i> 'trace' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=9)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>78</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'addPath'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      1 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php'</font> <i>(length=67)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>45</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'setPaths'</font> <i>(length=8)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      2 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\utilities\DefaultsProvider.php'</font> <i>(length=53)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>59</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'__construct'</font> <i>(length=11)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Twig\Loader\FilesystemLoader'</font> <i>(length=28)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      3 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\app\MagazineController.php'</font> <i>(length=49)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>28</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'getTwig'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'utilities\DefaultsProvider'</font> <i>(length=26)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      4 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>31</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'showInputForm'</font> <i>(length=13)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'app\MagazineController'</font> <i>(length=22)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      5 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\{closure}'</font> <i>(length=16)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      6 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\steampixel\simple-php-router\src\Steampixel\Route.php'</font> <i>(length=79)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>103</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'call_user_func_array'</font> <i>(length=20)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      7 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>51</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'run'</font> <i>(length=3)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Steampixel\Route'</font> <i>(length=16)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'::'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      8 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\index.php'</font> <i>(length=28)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>22</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'initRoutes'</font> <i>(length=10)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+  <i>private</i> <i>?Throwable</i> 'previous' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'lineno' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>-1</font>
+  <i>private</i> 'name' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'rawMessage' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'The &quot;../templates/src&quot; directory does not exist (&quot;C:\Development\kai\../templates/src&quot;).'</font> <i>(length=88)</i>
+  <i>private</i> 'sourcePath' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>private</i> 'sourceCode' <small>(Twig\Error\Error)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> 'xdebug_message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#f57900&#39; colspan=&quot;5&quot;&gt;&lt;span style=&#39;background-color: #cc0000; color: #fce94f; font-size: x-large;&#39;&gt;( ! )&lt;/span&gt; Twig\Error\LoaderError: The &quot;../templates/src&quot; directory does not exist (&quot;C:\Development\kai\../templates/src&quot;). in C:\Development\kai\vendor\twig\twig\src\Loader\FilesystemLoader.php on line &lt;i&gt;92&lt;/i&gt;&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#e9b96e&#39; colspan=&#39;5&#39;&gt;Call Stack&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;center&#39; bgcolor=&#39;#eeeeec&#39;&gt;#&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Time&lt;'...</font> <i>(length=4966)</i>
+</pre>ERROR: Critical Error\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>object</b>(<i>PDOException</i>)[<i>17</i>]
+  <i>protected</i> 'message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'</font> <i>(length=68)</i>
+  <i>private</i> <i>string</i> 'string' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+  <i>protected</i> 'code' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'HY093'</font> <i>(length=5)</i>
+  <i>protected</i> <i>string</i> 'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\pdo\PDOWrapper.php'</font> <i>(length=41)</i>
+  <i>protected</i> <i>int</i> 'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>62</font>
+  <i>private</i> <i>array</i> 'trace' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=7)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\pdo\PDOWrapper.php'</font> <i>(length=41)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>62</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'execute'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'PDOStatement'</font> <i>(length=12)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      1 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\app\MagazineController.php'</font> <i>(length=49)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>53</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'executePreparedStatement'</font> <i>(length=24)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'pdo\PDOWrapper'</font> <i>(length=14)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      2 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>37</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'addMagazine'</font> <i>(length=11)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'app\MagazineController'</font> <i>(length=22)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      3 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\{closure}'</font> <i>(length=16)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      4 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\steampixel\simple-php-router\src\Steampixel\Route.php'</font> <i>(length=79)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>103</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'call_user_func_array'</font> <i>(length=20)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      5 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>51</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'run'</font> <i>(length=3)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Steampixel\Route'</font> <i>(length=16)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'::'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      6 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\index.php'</font> <i>(length=28)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>21</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'initRoutes'</font> <i>(length=10)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+  <i>private</i> <i>?Throwable</i> 'previous' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> <i>?array</i> 'errorInfo' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=2)</i>
+      0 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'HY093'</font> <i>(length=5)</i>
+      1 <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>0</font>
+  <i>public</i> 'xdebug_message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#f57900&#39; colspan=&quot;5&quot;&gt;&lt;span style=&#39;background-color: #cc0000; color: #fce94f; font-size: x-large;&#39;&gt;( ! )&lt;/span&gt; PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\Development\kai\src\pdo\PDOWrapper.php on line &lt;i&gt;62&lt;/i&gt;&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#e9b96e&#39; colspan=&#39;5&#39;&gt;Call Stack&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;center&#39; bgcolor=&#39;#eeeeec&#39;&gt;#&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Time&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Memory&lt;/th&gt;&lt;th al'...</font> <i>(length=4000)</i>
+</pre>ERROR: Critical Error\n<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Development\kai\src\logger\Logger.php:59:</small>
+<b>object</b>(<i>PDOException</i>)[<i>17</i>]
+  <i>protected</i> 'message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined'</font> <i>(length=68)</i>
+  <i>private</i> <i>string</i> 'string' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+  <i>protected</i> 'code' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'HY093'</font> <i>(length=5)</i>
+  <i>protected</i> <i>string</i> 'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\pdo\PDOWrapper.php'</font> <i>(length=41)</i>
+  <i>protected</i> <i>int</i> 'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>62</font>
+  <i>private</i> <i>array</i> 'trace' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=7)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\pdo\PDOWrapper.php'</font> <i>(length=41)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>62</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'execute'</font> <i>(length=7)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'PDOStatement'</font> <i>(length=12)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      1 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\app\MagazineController.php'</font> <i>(length=49)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>54</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'executePreparedStatement'</font> <i>(length=24)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'pdo\PDOWrapper'</font> <i>(length=14)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      2 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>37</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'addMagazine'</font> <i>(length=11)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'app\MagazineController'</font> <i>(length=22)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      3 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\{closure}'</font> <i>(length=16)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+      4 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=4)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\vendor\steampixel\simple-php-router\src\Steampixel\Route.php'</font> <i>(length=79)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>103</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'call_user_func_array'</font> <i>(length=20)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      5 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\src\router\Router.php'</font> <i>(length=40)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>51</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'run'</font> <i>(length=3)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Steampixel\Route'</font> <i>(length=16)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'::'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=1)</i>
+              ...
+      6 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=6)</i>
+          'file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'C:\Development\kai\index.php'</font> <i>(length=28)</i>
+          'line' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>21</font>
+          'function' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'initRoutes'</font> <i>(length=10)</i>
+          'class' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'router\Router'</font> <i>(length=13)</i>
+          'type' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'-&gt;'</font> <i>(length=2)</i>
+          'args' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=0)</i>
+              ...
+  <i>private</i> <i>?Throwable</i> 'previous' <small>(Exception)</small> <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  <i>public</i> <i>?array</i> 'errorInfo' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=2)</i>
+      0 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'HY093'</font> <i>(length=5)</i>
+      1 <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>0</font>
+  <i>public</i> 'xdebug_message' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#f57900&#39; colspan=&quot;5&quot;&gt;&lt;span style=&#39;background-color: #cc0000; color: #fce94f; font-size: x-large;&#39;&gt;( ! )&lt;/span&gt; PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\Development\kai\src\pdo\PDOWrapper.php on line &lt;i&gt;62&lt;/i&gt;&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#e9b96e&#39; colspan=&#39;5&#39;&gt;Call Stack&lt;/th&gt;&lt;/tr&gt;&#10;&lt;tr&gt;&lt;th align=&#39;center&#39; bgcolor=&#39;#eeeeec&#39;&gt;#&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Time&lt;/th&gt;&lt;th align=&#39;left&#39; bgcolor=&#39;#eeeeec&#39;&gt;Memory&lt;/th&gt;&lt;th al'...</font> <i>(length=4000)</i>
+</pre>

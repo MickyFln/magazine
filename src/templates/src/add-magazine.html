@@ -1,0 +1,49 @@
+<style>
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+
+<h1>Kaine Magazine mehr ;)</h1>
+
+<form class="js-add-magazine-form" method="post">
+    {% for magazine in magazines %}
+        <label>
+            <input type="radio" name="magazine" value="{{ magazine.magazine }}">{{ magazine.magazine }}
+        </label>
+    {% endfor %}
+    <label>
+        <input type="radio" name="magazine" class="js-new-magazine-radio" value=""><input type="text" class="js-new-magazine-text">
+    </label>
+    <label>
+        Datum: <br>
+        <input type="date" name="issue_date">
+    </label>
+    <label>
+        Titel: <br>
+        <input type="text" name="issue_title">
+    </label>
+    <button type="submit">Speichern</button>
+</form>
+
+<script>
+    (() => {
+        const newMagazineText = document.querySelector('.js-new-magazine-text')
+        const newMagazineRadio = document.querySelector('.js-new-magazine-radio')
+        newMagazineText.addEventListener('keyup', () => {
+            newMagazineRadio.value = newMagazineText.value
+            newMagazineRadio.checked = true
+        })
+
+        const form = document.querySelector('.js-add-magazine-form')
+        form.addEventListener('submit', evt => {
+            const formData = new FormData(form)
+            evt.preventDefault()
+
+            const xhr = new XMLHttpRequest()
+            xhr.open('POST', '/kai/add')
+            xhr.send(formData)
+        })
+    })()
+</script>

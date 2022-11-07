@@ -1,0 +1,8 @@
+{% for magazine in magazines %}
+<div class="magazine">
+	<h3>{{ magazine.date }} - {{ magazine.title }}</h3>
+	<img src="{{ magazine.imageSrc }}"> 
+	<span></span>
+	<button>Bestellen</button>
+</div>
+{% endfor %}
